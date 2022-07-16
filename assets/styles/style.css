@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+}
+
+.header__logo {}
+
+.header__headline {}
+
+
+.btn {
+    background-color: #5222D0;
+    color: #ffffff;
+}
+
+.btn--icon {
+    max-width: 100%;
+}
